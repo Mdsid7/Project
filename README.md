@@ -1,3 +1,1 @@
-# Student Database Management System
-##About
-    ~~complete later~~
+# Student Reasult Management System
